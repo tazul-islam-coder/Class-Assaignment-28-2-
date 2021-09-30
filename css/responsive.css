@@ -1,0 +1,326 @@
+
+@media (max-width:992px){
+    .goals-content {
+        padding: 80px 0px;
+    }
+    .wh-goals {
+        padding-bottom: 0 !important;
+    }
+    .feedback-text p {
+        width: 100%;
+    }
+    .support-members-1 {
+        margin-bottom: 74px;
+    }
+}
+@media (max-width:768px){
+    .goals-content {
+        padding: 45px 0px;
+        padding: 0px 0px 40px 0;
+    }
+    .goals-content h1 {
+        font-size: 35px;
+    }
+    .goals-content p {
+        font-size: 18px;
+    }
+    .wh-goals {
+        padding-bottom: 0 !important;
+    }
+    .feedback-text p {
+        width: 100%;
+    }
+    .support-members-1 {
+        margin-bottom: 74px;
+    }
+    
+}
+@media (max-width:450px) {
+    .wh-inner-content h4 {
+        font-size: 17px;
+    }
+    .goals-content h1 {
+        font-size: 25px;
+    }
+    .goals-content {
+        padding: 10px 0px;
+    }
+    .wh-inner-content h4 {
+        font-size: 18px;
+    }
+    .wh-inner-content h1 {
+        font-size: 24px;
+        padding: 8px !important;
+    }
+    .banner-content {
+        padding: 100px 0;
+    }
+    .goals-content {
+        padding: 20px 0px !important;
+    }
+    .goals-content h1 {
+        font-size: 30px !important;
+    }
+    .goals-content p {
+        font-size: 17px !important;
+        padding-top: 8px !important;
+    }
+    .left-test-sec h4 {
+        font-size: 19px;
+    }
+    .left-test-sec p {
+        font-size: 13px;
+    }
+    .portfolio-header {
+        padding: 15px 0 !important;
+    }
+    .portfolio-header h1 {
+        font-size: 23px;
+    }
+    .pricing-header {
+        padding: 10px 0 !important;
+    }
+    .pricing-header h1 {
+        font-size: 24px;
+    }
+    .pricing-header p {
+        font-size: 16px;
+        margin-bottom: 0;
+    }
+    .pricing-table {
+        padding: 35px !important;
+        margin-bottom: 20px;
+    }
+    .pricing-table h1 {
+        font-size: 40px;
+        padding-bottom: 5px;
+    }
+    .pricing-table span {
+        font-size: 18px;
+    }
+    .pricing-table p i {
+        width: 35px;
+        font-weight: 600;
+    }
+    .pricing-table p {
+        font-size: 15px;
+        padding: 9px;
+    }
+    .feedback-quotetion {
+        font-size: 50px;
+        padding-bottom: 15px;
+    }
+    .feedback-text p {
+        width: 100%;
+        font-size: 15px;
+        padding-bottom: 43px;
+    }
+    .fb-authur-img img {
+        width: 100px !important;
+        height: 100px !important;
+    }
+    .fb-authur-text {
+        padding-left: 20px;
+        padding-top: 25px;
+    }
+    .fb-authur-text h2 {
+        font-size: 20px;
+    }
+    .fb-authur-text h4 {
+        font-size: 15px;
+    }
+    .support-members-h {
+        font-size: 35px;
+        margin-top: 0px;
+        margin-bottom: 11px;
+    }
+    .support-members-p1 {
+        font-size: 15px;
+        padding-bottom: 0px;
+    }
+    .support-members-p2 {
+        font-size: 15px;
+        margin-top: 50px;
+        margin-bottom: 88px;
+    }
+    .support-members-1 h4 {
+        margin-top: 22px;
+        font-size: 25px;
+    }
+    .support-members-1 span {
+        font-size: 17px;
+    }
+    .support-members-1 {
+        padding: 20px;
+        margin-bottom: 70px;
+    }
+    .support-members-1 a {
+        margin: 0 0 !important;
+    }
+    .submit-data {
+        padding: 25px !important;
+    }
+    .submit-data {
+        padding: 25px !important;
+        margin-bottom: 0 !important;
+    }
+    .app-store {
+        padding: 0 0 !important;
+    }
+    .app-store-content h3 {
+        font-size: 20px;
+    }
+    .app-store-content h1 {
+        font-size: 26px;
+    }
+    .footer p {
+        font-size: 12px;
+    }
+    
+ 
+}
+
+@media (max-width:350px) {
+    .wh-inner-content h4 {
+        font-size: 17px;
+    }
+    .goals-content h1 {
+        font-size: 25px;
+    }
+    .goals-content {
+        padding: 10px 0px;
+    }
+    .wh-inner-content h4 {
+        font-size: 18px;
+    }
+    .wh-inner-content h1 {
+        font-size: 24px;
+        padding: 8px !important;
+    }
+    .banner-content {
+        padding: 100px 0;
+    }
+    .goals-content {
+        padding: 20px 0px !important;
+    }
+    .goals-content h1 {
+        font-size: 30px !important;
+    }
+    .goals-content p {
+        font-size: 17px !important;
+        padding-top: 8px !important;
+    }
+    .left-test-sec h4 {
+        font-size: 19px;
+    }
+    .left-test-sec p {
+        font-size: 13px;
+    }
+    .portfolio-header {
+        padding: 15px 0 !important;
+    }
+    .portfolio-header h1 {
+        font-size: 23px;
+    }
+    .pricing-header {
+        padding: 10px 0 !important;
+    }
+    .pricing-header h1 {
+        font-size: 24px;
+    }
+    .pricing-header p {
+        font-size: 16px;
+        margin-bottom: 0;
+    }
+    .pricing-table {
+        padding: 35px !important;
+        margin-bottom: 20px;
+    }
+    .pricing-table h1 {
+        font-size: 40px;
+        padding-bottom: 5px;
+    }
+    .pricing-table span {
+        font-size: 18px;
+    }
+    .pricing-table p i {
+        width: 35px;
+        font-weight: 600;
+    }
+    .pricing-table p {
+        font-size: 15px;
+        padding: 9px;
+    }
+    .feedback-quotetion {
+        font-size: 50px;
+        padding-bottom: 15px;
+    }
+    .feedback-text p {
+        width: 100%;
+        font-size: 15px;
+        padding-bottom: 43px;
+    }
+    .fb-authur-img img {
+        width: 100px !important;
+        height: 100px !important;
+    }
+    .fb-authur-text {
+        padding-left: 20px;
+        padding-top: 25px;
+    }
+    .fb-authur-text h2 {
+        font-size: 20px;
+    }
+    .fb-authur-text h4 {
+        font-size: 15px;
+    }
+    .support-members-h {
+        font-size: 35px;
+        margin-top: 0px;
+        margin-bottom: 11px;
+    }
+    .support-members-p1 {
+        font-size: 15px;
+        padding-bottom: 0px;
+    }
+    .support-members-p2 {
+        font-size: 15px;
+        margin-top: 50px;
+        margin-bottom: 88px;
+    }
+    .support-members-1 h4 {
+        margin-top: 22px;
+        font-size: 25px;
+    }
+    .support-members-1 span {
+        font-size: 17px;
+    }
+    .support-members-1 {
+        padding: 20px;
+        margin-bottom: 70px;
+    }
+    .support-members-1 a {
+        margin: 0 0 !important;
+    }
+    .submit-data {
+        padding: 25px !important;
+    }
+    .submit-data {
+        padding: 25px !important;
+        margin-bottom: 0 !important;
+    }
+    .app-store {
+        padding: 0 0 !important;
+    }
+    .app-store-content h3 {
+        font-size: 20px;
+    }
+    .app-store-content h1 {
+        font-size: 26px;
+    }
+    .footer p {
+        font-size: 12px;
+    }
+    
+ 
+}
